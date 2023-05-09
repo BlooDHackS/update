@@ -1,1 +1,18 @@
-
+{
+  "server_version": "1.0.1",
+  "server_list": [
+    {
+      "server_name": "Singapore",
+      "region": "SG",
+      "server_initial": "SG 1 [ SSH & SSL ]",
+      "server_ip": "sg1.sshkit.org",
+      "ssh_port": "442",
+      "ssl_port": "443",
+      "username": "sshkit-5914948490",
+      "password": "ivanpogi11",
+      "proxy_ip": "sg1.sshkit.org",
+      "proxy_port": "3128",
+      "server_status": "ONLINE"
+    }
+  ]
+}
