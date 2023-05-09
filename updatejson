@@ -1,70 +1,139 @@
 {
+
   "server_version": "1.0.1",
+
   "server_list": [
+
     {
+
       "server_name": "United States",
+
       "region": "US.png",
+
       "server_initial": "US 1 [ SSH & SSL ]",
+
       "server_ip": "us4.ssh30.us",
+
       "ssh_port": "22",
+
       "ssl_port": "443",
+
       "username": "sshstores-ivanlloyd11",
+
       "password": "123456",
+
       "proxy_ip": "us4.ssh30.us",
+
       "proxy_port": "8080",
+
       "server_status": "ONLINE"
+
     },
+
     {
+
       "server_name": "United States",
+
       "region": "US.png",
+
       "server_initial": "US 2 [ SSH & SSL ]",
+
       "server_ip": "us5.ssh30.us",
+
       "ssh_port": "22",
+
       "ssl_port": "443",
+
       "username": "sshstores-ivanlloyd11",
+
       "password": "123456",
+
       "proxy_ip": "us5.ssh30.us",
+
       "proxy_port": "8080",
+
       "server_status": "ONLINE"
+
     },
+
     {
-      "server_name": "United Kingdom",
-      "region": "UK.png",
-      "server_initial": "UK 1 [ SSH & SSL ]",
-      "server_ip": "uk-ssh.sshmax.xyz",
+
+      "server_name": "United States",
+
+      "region": "US.png",
+
+      "server_initial": "US 3 [ SSH & SSL ]",
+
+      "server_ip": "us6.ssh30.us",
+
       "ssh_port": "22",
+
       "ssl_port": "443",
-      "username": "sshmax-ivanlloyd11",
+
+      "username": "sshstores-ivanlloyd11",
+
       "password": "123456",
-      "proxy_ip": "uk-ssh.sshmax.xyz",
+
+      "proxy_ip": "us6.ssh30.us",
+
       "proxy_port": "8080",
+
       "server_status": "ONLINE"
+
     },
+
     {
-      "server_name": "Poland",
-      "region": "PL.png",
-      "server_initial": "PL 1 [ SSH & SSL ]",
-      "server_ip": "pl-ssh.sshmax.xyz",
+
+      "server_name": "Japan",
+
+      "region": "JP.png",
+
+      "server_initial": "JP 1 [ SSH & SSL ]",
+
+      "server_ip": "jp1.ssh30.us",
+
       "ssh_port": "22",
+
       "ssl_port": "443",
-      "username": "sshmax-ivanlloyd11",
+
+      "username": "sshstores-ivanlloyd11",
+
       "password": "123456",
-      "proxy_ip": "pl-ssh.sshmax.xyz",
+
+      "proxy_ip": "jp1.ssh30.us",
+
       "proxy_port": "8080",
+
       "server_status": "ONLINE"
+
     },
+
     {
+
       "server_name": "Germany",
+
       "region": "DE.png",
+
       "server_initial": "DE 1 [ SSH & SSL ]",
-      "server_ip": "de-ssh.sshmax.xyz",
+
+      "server_ip": "de1.ssh30.us",
+
       "ssh_port": "22",
+
       "ssl_port": "443",
-      "username": "sshmax-ivanlloyd11",
+
+      "username": "sshstores-ivanlloyd11",
+
       "password": "123456",
-      "proxy_ip": "de-ssh.sshmax.xyz",
+
+      "proxy_ip": "de1.ssh30.us",
+
       "proxy_port": "8080",
+
       "server_status": "ONLINE"
+
     }
+
   ]
+
 }
