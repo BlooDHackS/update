@@ -13,6 +13,7 @@
       "proxy_ip": "sg4.ssh30.us",
       "proxy_port": "8080",
       "server_status": "ONLINE"
+      "server_type": "SSL & SSH"
     },
     {
       "server_name": "Australia 1",
@@ -26,6 +27,7 @@
       "proxy_ip": "au1.ssh30.us",
       "proxy_port": "8080",
       "server_status": "ONLINE"
+      "server_type": "SSL & SSH"
     },
     {
       "server_name": "Japan 1",
@@ -39,6 +41,7 @@
       "proxy_ip": "jp2.ssh30.us",
       "proxy_port": "8080",
       "server_status": "ONLINE"
+      "server_type": "SSL & SSH"
     },
     {
       "server_name": "Japan 2",
@@ -52,6 +55,7 @@
       "proxy_ip": "jp1.ssh30.us",
       "proxy_port": "8080",
       "server_status": "ONLINE"
+      "server_type": "SSL & SSH"
     },
  {
       "server_name": "India 1",
@@ -65,6 +69,7 @@
       "proxy_ip": "in1.ssh30.us",
       "proxy_port": "8080",
       "server_status": "ONLINE"
+      "server_type": "SSL & SSH"
     },
 
     {
@@ -79,6 +84,18 @@
       "proxy_ip": "in2.ssh30.us",
       "proxy_port": "8080",
       "server_status": "ONLINE"
+      "server_type": "SSL & SSH"
+    },{
+      "server_name": "Australia",
+      "region": "AU.png",
+      "server_initial": "US 1",
+      "dnstt_nameserver": "dns.aub7a9.fcafessh.net", 
+      "dnstt_pubkey": "99242c9fe50d6e08e95bbf30e4bd11e648e283ba8d05610bb64e3176adfc0555",      
+      "dnstt_username": "test",
+      "dnstt_password": "test",
+      "server_status": "OFFLINE.png",
+      "server_type": "DNS & SSH" 
     }
+
   ]
 }
