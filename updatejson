@@ -1,5 +1,5 @@
 {
-  "server_version": "1.0.5",
+  "server_version": "1.0.0",
   "server_list": [
     {
       "server_name": "Singapore 1",
@@ -12,79 +12,64 @@
       "password": "123456",
       "proxy_ip": "sg4.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png"
-      "server_type": "SSL & SSH"
+      "server_status": "ONLINE.png",
+      "server_type": "SSH & SSL"    
     },
-    {
-      "server_name": "Australia 1",
-      "region": "AU.png",
-      "server_initial": "AU 1",
-      "server_ip": "au1.ssh30.us",
+{
+      "server_name": "Singapore 1",
+      "region": "SG.png",
+      "server_initial": "SG 1",
+      "server_ip": "sg4.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
       "username": "sshstores-Ivanlloyd11",
       "password": "123456",
-      "proxy_ip": "au1.ssh30.us",
+      "proxy_ip": "sg4.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png"
-      "server_type": "SSL & SSH"
+      "server_status": "ONLINE.png",
+      "server_type": "SSH & SSL"    
     },
-    {
-      "server_name": "Japan 1",
-      "region": "JP.png",
-      "server_initial": "JP 1",
-      "server_ip": "jp2.ssh30.us",
+{
+      "server_name": "Singapore 1",
+      "region": "SG.png",
+      "server_initial": "SG 1",
+      "server_ip": "sg4.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
       "username": "sshstores-Ivanlloyd11",
       "password": "123456",
-      "proxy_ip": "jp2.ssh30.us",
+      "proxy_ip": "sg4.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png"
-      "server_type": "SSL & SSH"
+      "server_status": "ONLINE.png",
+      "server_type": "SSH & SSL"    
     },
-    {
-      "server_name": "Japan 2",
-      "region": "JP.png",
-      "server_initial": "JP 2",
-      "server_ip": "jp1.ssh30.us",
+{
+      "server_name": "Singapore 1",
+      "region": "SG.png",
+      "server_initial": "SG 1",
+      "server_ip": "sg4.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
       "username": "sshstores-Ivanlloyd11",
       "password": "123456",
-      "proxy_ip": "jp1.ssh30.us",
+      "proxy_ip": "sg4.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png"
-      "server_type": "SSL & SSH"
+      "server_status": "ONLINE.png",
+      "server_type": "SSH & SSL"    
     },
- {
-      "server_name": "India 1",
-      "region": "IN.png",
-      "server_initial": "IN 1",
-      "server_ip": "in1.ssh30.us",
+{
+      "server_name": "Singapore 1",
+      "region": "SG.png",
+      "server_initial": "SG 1",
+      "server_ip": "sg4.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
       "username": "sshstores-Ivanlloyd11",
       "password": "123456",
-      "proxy_ip": "in1.ssh30.us",
+      "proxy_ip": "sg4.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png"
-      "server_type": "SSL & SSH"
-    },
-
-    {
-      "server_name": "India 2",
-      "region": "IN.png",
-      "server_initial": "IN 2",
-      "server_ip": "in2.ssh30.us",
-      "ssh_port": "22",
-      "ssl_port": "443",
-      "username": "sshstores-Ivanlloyd11",
-      "password": "123456",
-      "proxy_ip": "in2.ssh30.us",
-      "proxy_port": "8080",
-      "server_status": "ONLINE.png"
-      "server_type": "SSL & SSH"
+      "server_status": "ONLINE.png",
+      "server_type": "SSH & SSL"    
     },{
       "server_name": "Australia",
       "region": "AU.png",
@@ -96,6 +81,5 @@
       "server_status": "OFFLINE.png",
       "server_type": "DNS & SSH" 
     }
-
   ]
 }
