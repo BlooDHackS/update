@@ -4,7 +4,7 @@
     {
       "server_name": "Singapore 1",
       "region": "SG.png",
-      "server_initial": "SG 1 [ SSH & SSL ]",
+      "server_initial": "SG 1",
       "server_ip": "sg4.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
@@ -18,7 +18,7 @@
     {
       "server_name": "Australia 1",
       "region": "AU.png",
-      "server_initial": "AU 1 [ SSH & SSL ]",
+      "server_initial": "AU 1",
       "server_ip": "au1.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
@@ -26,13 +26,13 @@
       "password": "123456",
       "proxy_ip": "au1.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE"
+      "server_status": "ONLINE.png"
       "server_type": "SSL & SSH"
     },
     {
       "server_name": "Japan 1",
       "region": "JP.png",
-      "server_initial": "JP 1 [ SSH & SSL ]",
+      "server_initial": "JP 1",
       "server_ip": "jp2.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
@@ -40,13 +40,13 @@
       "password": "123456",
       "proxy_ip": "jp2.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE"
+      "server_status": "ONLINE.png"
       "server_type": "SSL & SSH"
     },
     {
       "server_name": "Japan 2",
       "region": "JP.png",
-      "server_initial": "JP 2 [ SSH & SSL ]",
+      "server_initial": "JP 2",
       "server_ip": "jp1.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
@@ -54,13 +54,13 @@
       "password": "123456",
       "proxy_ip": "jp1.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE"
+      "server_status": "ONLINE.png"
       "server_type": "SSL & SSH"
     },
  {
       "server_name": "India 1",
       "region": "IN.png",
-      "server_initial": "IN 1 [ SSH & SSL ]",
+      "server_initial": "IN 1",
       "server_ip": "in1.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
@@ -68,14 +68,14 @@
       "password": "123456",
       "proxy_ip": "in1.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE"
+      "server_status": "ONLINE.png"
       "server_type": "SSL & SSH"
     },
 
     {
       "server_name": "India 2",
       "region": "IN.png",
-      "server_initial": "IN 2 [ SSH & SSL ]",
+      "server_initial": "IN 2",
       "server_ip": "in2.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
@@ -83,12 +83,12 @@
       "password": "123456",
       "proxy_ip": "in2.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE"
+      "server_status": "ONLINE.png"
       "server_type": "SSL & SSH"
     },{
       "server_name": "Australia",
       "region": "AU.png",
-      "server_initial": "US 1",
+      "server_initial": "AU 1",
       "dnstt_nameserver": "dns.aub7a9.fcafessh.net", 
       "dnstt_pubkey": "99242c9fe50d6e08e95bbf30e4bd11e648e283ba8d05610bb64e3176adfc0555",      
       "dnstt_username": "test",
