@@ -1,5 +1,5 @@
 {
-  "server_version": "1.0.30",
+  "server_version": "1.0.4",
   "server_list": [
     {
       "server_name": "Singapore 1",
@@ -12,13 +12,13 @@
       "password": "123456",
       "proxy_ip": "sg4.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },
 {
-      "server_name": "Singapore 1",
+      "server_name": "Singapore 2",
       "region": "SG.png",
-      "server_initial": "SG 1",
+      "server_initial": "SG 2",
       "server_ip": "sg4.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
@@ -26,13 +26,13 @@
       "password": "123456",
       "proxy_ip": "sg4.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },
 {
-      "server_name": "Singapore 1",
+      "server_name": "Singapore 3",
       "region": "SG.png",
-      "server_initial": "SG 1",
+      "server_initial": "SG 3",
       "server_ip": "sg4.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
@@ -40,13 +40,13 @@
       "password": "123456",
       "proxy_ip": "sg4.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },
 {
-      "server_name": "Singapore 1",
+      "server_name": "Singapore 4",
       "region": "SG.png",
-      "server_initial": "SG 1",
+      "server_initial": "SG 4",
       "server_ip": "sg4.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
@@ -54,13 +54,13 @@
       "password": "123456",
       "proxy_ip": "sg4.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },
 {
-      "server_name": "Singapore 1",
+      "server_name": "Singapore 5",
       "region": "SG.png",
-      "server_initial": "SG 1",
+      "server_initial": "SG 5",
       "server_ip": "sg4.ssh30.us",
       "ssh_port": "22",
       "ssl_port": "443",
@@ -68,7 +68,7 @@
       "password": "123456",
       "proxy_ip": "sg4.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },{
       "server_name": "Australia",
