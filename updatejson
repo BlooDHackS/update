@@ -44,33 +44,6 @@
       "server_type": "SSH & SSL"    
     },
 {
-      "server_name": "Singapore 4",
-      "region": "SG.png",
-      "server_initial": "SG 4",
-      "server_ip": "sg4.ssh30.us",
-      "ssh_port": "22",
-      "ssl_port": "443",
-      "username": "sshstores-Ivanlloyd11",
-      "password": "123456",
-      "proxy_ip": "sg4.ssh30.us",
-      "proxy_port": "8080",
-      "server_status": "ONLINE.png",
-      "server_type": "SSH & SSL"    
-    },
-{
-      "server_name": "Japan 1",
-      "region": "JP.png",
-      "server_initial": "JP 1",
-      "server_ip": "jp1.ssh30.us",
-      "ssh_port": "22",
-      "ssl_port": "443",
-      "username": "sshstores-Ivanlloyd12",
-      "password": "123456",
-      "proxy_ip": "jp1.ssh30.us",
-      "proxy_port": "8080",
-      "server_status": "ONLINE.png",
-      "server_type": "SSH & SSL"    
-    },{
       "server_name": "Australia",
       "region": "AU.png",
       "server_initial": "AU 1",
