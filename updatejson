@@ -1,5 +1,5 @@
 {
-  "server_version": "1.0.31",
+  "server_version": "1.0.32",
   "server_list": [
     {
       "server_name": "India 1",
@@ -44,14 +44,14 @@
       "server_type": "SSH & SSL"    
     },
 {
-      "server_name": "Australia",
-      "region": "AU.png",
-      "server_initial": "AU 1",
-      "dnstt_nameserver": "dns.phc9ec.public-vpn.com", 
+      "server_name": "Singapore 1 DNS",
+      "region": "SG.png",
+      "server_initial": "SG1 1",
+      "dnstt_nameserver": "dns.sg1af8.public-vpn.com", 
       "dnstt_pubkey": "99242c9fe50d6e08e95bbf30e4bd11e648e283ba8d05610bb64e3176adfc0555",      
-      "dnstt_username": "test",
-      "dnstt_password": "test",
-      "server_status": "OFFLINE.png",
+      "dnstt_username": "blaire.bid-_Ivanlloyd11",
+      "dnstt_password": "_Hahaha111",
+      "server_status": "ONLINE.png",
       "server_type": "DNS & SSH" 
     }
   ]
