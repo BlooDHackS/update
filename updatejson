@@ -47,7 +47,7 @@
       "server_name": "Australia",
       "region": "AU.png",
       "server_initial": "AU 1",
-      "dnstt_nameserver": "dns.aub7a9.fcafessh.net", 
+      "dnstt_nameserver": "dns.phc9ec.public-vpn.com", 
       "dnstt_pubkey": "99242c9fe50d6e08e95bbf30e4bd11e648e283ba8d05610bb64e3176adfc0555",      
       "dnstt_username": "test",
       "dnstt_password": "test",
