@@ -1,5 +1,5 @@
 {
-  "server_version": "1.0.32",
+  "server_version": "1.0.33",
   "server_list": [
     {
       "server_name": "India 1",
@@ -44,7 +44,7 @@
       "server_type": "SSH & SSL"    
     },
 {
-      "server_name": "Singapore 1 DNS",
+      "server_name": "Singapore 1",
       "region": "SG.png",
       "server_initial": "SG1 1",
       "dnstt_nameserver": "dns.sg1af8.public-vpn.com", 
