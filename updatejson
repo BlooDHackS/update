@@ -11,7 +11,7 @@
       "username": "privatessh_Ivanlloyd11",
       "password": "123457",
       "proxy_ip": "a.sg.serverfast.pw",
-      "proxy_port": "8080",
+      "proxy_port": "80",
       "server_status": "ONLINE.png",
       "server_type": "SSH & SSL"    
     },
