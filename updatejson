@@ -12,7 +12,7 @@
       "password": "123457",
       "proxy_ip": "a.sg.serverfast.pw",
       "proxy_port": "80",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },
 {
@@ -26,7 +26,7 @@
       "password": "123456",
       "proxy_ip": "in2.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },
 {
@@ -40,7 +40,7 @@
       "password": "123456",
       "proxy_ip": "de2.ssh30.us",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },
 {
@@ -51,7 +51,7 @@
       "dnstt_pubkey": "99242c9fe50d6e08e95bbf30e4bd11e648e283ba8d05610bb64e3176adfc0555",      
       "dnstt_username": "blaire.bid-_Ivanlloyd11",
       "dnstt_password": "_Hahaha111",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "DNS & SSH" 
     }
   ]
