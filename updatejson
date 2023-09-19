@@ -1,5 +1,5 @@
 {
-  "server_version": "1.0.37",
+  "server_version": "1.0.38",
   "server_list": [
     {
       "server_name": "Singapore 1",
@@ -94,7 +94,7 @@
       "dnstt_pubkey": "7fbd1f8aa0abfe15a7903e837f78aba39cf61d36f183bd604daa2fe4ef3b7b59",      
       "dnstt_username": "ivan",
       "dnstt_password": "ivan",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "DNS & SSH" 
     },
 {
@@ -105,7 +105,7 @@
       "dnstt_pubkey": "7fbd1f8aa0abfe15a7903e837f78aba39cf61d36f183bd604daa2fe4ef3b7b59",      
       "dnstt_username": "jhon",
       "dnstt_password": "jhon",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "DNS & SSH" 
     }
   ]
