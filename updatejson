@@ -131,7 +131,7 @@
 {
       "server_name": "Singapore 3",
       "region": "SG.png",
-      "s{erver_initial": "SG 3",
+      "server_initial": "SG 3",
       "dnstt_nameserver": "komo.chopavpn.com", 
       "dnstt_pubkey": "d23d6a6c665422e1f67247a53417c1b29530e44285c5fa2852f0251b34183e49",      
       "dnstt_username": "ivan123",
@@ -141,7 +141,7 @@
     },{
       "server_name": "Singapore 4",
       "region": "SG.png",
-      "s{erver_initial": "SG 4",
+      "server_initial": "SG 4",
       "dnstt_nameserver": "komo.chopavpn.com", 
       "dnstt_pubkey": "d23d6a6c665422e1f67247a53417c1b29530e44285c5fa2852f0251b34183e49",      
       "dnstt_username": "ivan123",
