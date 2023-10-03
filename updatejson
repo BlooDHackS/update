@@ -1,5 +1,5 @@
 {
-  "server_version": "1.0.40",
+  "server_version": "1.0.39",
   "server_list": [
     {
       "server_name": "United States 1",
@@ -103,6 +103,47 @@
       "server_initial": "US 2",
       "dnstt_nameserver": "0yp5.chopavpn.com", 
       "dnstt_pubkey": "8b201b87fb7fe17756d9b0bc9b08c9873fc525996a8afb33b2bec33a0e7ff34d",      
+      "dnstt_username": "ivan123",
+      "dnstt_password": "ivan123",
+      "server_status": "ONLINE.png",
+      "server_type": "DNS & SSH" 
+    },{
+      "server_name": "Singapore 1",
+      "region": "SG.png",
+      "server_initial": "SG 1",
+      "dnstt_nameserver": "wnn2.chopavpn.com", 
+      "dnstt_pubkey": "89aaf226e2fabfe00eaf05f676e6ff7f1b21859b6876884d72ce3624e55e124d",      
+      "dnstt_username": "ivan123",
+      "dnstt_password": "ivan123",
+      "server_status": "ONLINE.png",
+      "server_type": "DNS & SSH" 
+    },{
+      "server_name": "Singapore 2",
+      "region": "SG.png",
+      "server_initial": "SG 2",
+      "dnstt_nameserver": "wnn2.chopavpn.com", 
+      "dnstt_pubkey": "89aaf226e2fabfe00eaf05f676e6ff7f1b21859b6876884d72ce3624e55e124d",      
+      "dnstt_username": "ivan123",
+      "dnstt_password": "ivan123",
+      "server_status": "ONLINE.png",
+      "server_type": "DNS & SSH" 
+    },
+{
+      "server_name": "Singapore 3",
+      "region": "SG.png",
+      "s{erver_initial": "SG 3",
+      "dnstt_nameserver": "komo.chopavpn.com", 
+      "dnstt_pubkey": "d23d6a6c665422e1f67247a53417c1b29530e44285c5fa2852f0251b34183e49",      
+      "dnstt_username": "ivan123",
+      "dnstt_password": "ivan123",
+      "server_status": "ONLINE.png",
+      "server_type": "DNS & SSH" 
+    },{
+      "server_name": "Singapore 4",
+      "region": "SG.png",
+      "s{erver_initial": "SG 4",
+      "dnstt_nameserver": "komo.chopavpn.com", 
+      "dnstt_pubkey": "d23d6a6c665422e1f67247a53417c1b29530e44285c5fa2852f0251b34183e49",      
       "dnstt_username": "ivan123",
       "dnstt_password": "ivan123",
       "server_status": "ONLINE.png",
