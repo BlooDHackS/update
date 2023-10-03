@@ -138,7 +138,8 @@
       "dnstt_password": "ivan123",
       "server_status": "ONLINE.png",
       "server_type": "DNS & SSH" 
-    },{
+    },
+{
       "server_name": "Singapore 4",
       "region": "SG.png",
       "server_initial": "SG 4",
