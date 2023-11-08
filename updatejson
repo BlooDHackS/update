@@ -1,5 +1,5 @@
 {
-  "server_version": "1.0.39",
+  "server_version": "1.0.40",
   "server_list": [
     {
       "server_name": "United States 1",
@@ -12,7 +12,7 @@
       "password": "ivan123",
       "proxy_ip": "192.241.156.151",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },
 {
@@ -26,7 +26,7 @@
       "password": "ivan123",
       "proxy_ip": "192.241.156.151",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },
 {
@@ -40,7 +40,7 @@
       "password": "ivan123",
       "proxy_ip": "128.199.141.151",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },
 {
@@ -54,7 +54,7 @@
       "password": "ivan123",
       "proxy_ip": "128.199.141.151",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },
 
@@ -69,7 +69,7 @@
       "password": "ivan123",
       "proxy_ip": "188.166.222.200",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },
 {
@@ -83,7 +83,7 @@
       "password": "ivan123",
       "proxy_ip": "188.166.222.200",
       "proxy_port": "8080",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "SSH & SSL"    
     },
 {
@@ -94,7 +94,7 @@
       "dnstt_pubkey": "8b201b87fb7fe17756d9b0bc9b08c9873fc525996a8afb33b2bec33a0e7ff34d",      
       "dnstt_username": "ivan123",
       "dnstt_password": "ivan123",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "DNS & SSH" 
     },
 {
@@ -105,7 +105,7 @@
       "dnstt_pubkey": "8b201b87fb7fe17756d9b0bc9b08c9873fc525996a8afb33b2bec33a0e7ff34d",      
       "dnstt_username": "ivan123",
       "dnstt_password": "ivan123",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "DNS & SSH" 
     },{
       "server_name": "Singapore 1",
@@ -115,7 +115,7 @@
       "dnstt_pubkey": "89aaf226e2fabfe00eaf05f676e6ff7f1b21859b6876884d72ce3624e55e124d",      
       "dnstt_username": "ivan123",
       "dnstt_password": "ivan123",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "DNS & SSH" 
     },{
       "server_name": "Singapore 2",
@@ -125,7 +125,7 @@
       "dnstt_pubkey": "89aaf226e2fabfe00eaf05f676e6ff7f1b21859b6876884d72ce3624e55e124d",      
       "dnstt_username": "ivan123",
       "dnstt_password": "ivan123",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "DNS & SSH" 
     },
 {
@@ -136,7 +136,7 @@
       "dnstt_pubkey": "d23d6a6c665422e1f67247a53417c1b29530e44285c5fa2852f0251b34183e49",      
       "dnstt_username": "ivan123",
       "dnstt_password": "ivan123",
-      "server_status": "ONLINE.png",
+      "server_status": "OFFLINE.png",
       "server_type": "DNS & SSH" 
     },
 {
