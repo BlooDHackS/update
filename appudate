@@ -1,5 +1,10 @@
 {
-  "version": "2.0",
-  "update_url": "https://example.com/update.apk",
-  "description": "New features and bug fixes."
+  "latestVersion": "1.2.2",
+  "latestVersionCode": "10",
+  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "releaseNotes": [
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
+  ]
 }
